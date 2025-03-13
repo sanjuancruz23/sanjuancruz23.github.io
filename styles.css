@@ -1,3 +1,15 @@
-body {
-    background-color: lightblue;
+div{
+   background-color: #0d113b;
+    color: white;
+    text-align: center;
 }
+.flex-column.active{
+    background-color: #080b26;
+}
+
+.jumbotron{
+    background-color: #0d113b;
+    color: black;
+    text-align: center;
+}
+
