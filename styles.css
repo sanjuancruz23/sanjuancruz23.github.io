@@ -1,15 +1,18 @@
-div{
-   background-color: #0d113b;
-    color: white;
-    text-align: center;
+body{
+    background-color: azure !important;
 }
-.flex-column.active{
-    background-color: #080b26;
+div{
+    text-align: center;
+    margin: 20px;
 }
 
 .jumbotron{
-    background-color: #0d113b;
     color: black;
     text-align: center;
+    background-color: cadetblue;
 }
+.nav-pills .active{
+    background-color: cadetblue;
+}
+
 
